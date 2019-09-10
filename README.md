@@ -1,3 +1,3 @@
 # javaProjects
 Programming projects-
-This repository is for storing older projects and working collaborating on new ones.
+This repository is for storing projects and collaborating on new ones.
